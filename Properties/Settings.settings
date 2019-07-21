@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UnluckyDraw.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PlayerList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Okarin,Kurisu,Mayari,Daru,Luga,Sutsuha,Feris,Shining</Value>
+    </Setting>
+    <Setting Name="CardList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10/P,15/P,20/P,25/P,30/P,35/P,40/P,45/P,50/P,0/F,5/S,5/S,5/S,5/S,5/S,5/S,5/S,5/S,5/S,5/S</Value>
+    </Setting>
+    <Setting Name="ExportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\User\Documents</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

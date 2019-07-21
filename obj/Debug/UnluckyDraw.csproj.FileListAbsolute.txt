@@ -1,0 +1,65 @@
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\bin\Debug\UnluckyDraw.exe.config
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\bin\Debug\UnluckyDraw.exe
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\bin\Debug\UnluckyDraw.pdb
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\App.g.cs
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw_MarkupCompile.cache
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw_MarkupCompile.lref
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.g.resources
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.Properties.Resources.resources
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.exe
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.pdb
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\SettingWindow.g.cs
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\SettingWindow.baml
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\bin\Debug\UnluckyDraw.exe.config
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\bin\Debug\UnluckyDraw.exe
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\bin\Debug\UnluckyDraw.pdb
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\UnluckyDraw.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\SettingWindow.g.cs
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\App.g.cs
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\UnluckyDraw_MarkupCompile.cache
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\UnluckyDraw_MarkupCompile.lref
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\SettingWindow.baml
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\UnluckyDraw.g.resources
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\UnluckyDraw.Properties.Resources.resources
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\UnluckyDraw.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\UnluckyDraw.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\UnluckyDraw.exe
+C:\Users\User\source\repos\UnluckyDraw - Copy (2)\UnluckyDraw\obj\Debug\UnluckyDraw.pdb
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\App.baml
+C:\Users\User\source\repos\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.csproj.CopyComplete
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\bin\Debug\UnluckyDraw.exe.config
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\bin\Debug\UnluckyDraw.exe
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\bin\Debug\UnluckyDraw.pdb
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.csprojAssemblyReference.cache
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\SettingWindow.g.cs
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\App.g.cs
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw_MarkupCompile.cache
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw_MarkupCompile.lref
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\App.baml
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\SettingWindow.baml
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.g.resources
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.Properties.Resources.resources
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.csproj.CopyComplete
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.exe
+C:\Users\User\Desktop\UnluckyDraw\UnluckyDraw\obj\Debug\UnluckyDraw.pdb

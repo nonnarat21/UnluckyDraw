@@ -1,0 +1,85 @@
+﻿<Window x:Name="frmMain" x:Class="UnluckyDraw.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:UnluckyDraw"
+        mc:Ignorable="d"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"        
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="UnluckyDraw" Height="600" Width="900" Initialized="FrmMain_Initialized" MaxWidth="900" MaxHeight="600" MinWidth="900" MinHeight="600"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Canvas x:Name="cvsControl" HorizontalAlignment="Left" Height="140" VerticalAlignment="Top" Width="200" Background="#FF37474F">
+            <Button x:Name="btnSetting" Canvas.Left="37" Canvas.Top="79" Width="116" Click="BtnSetting_Click">
+                <Canvas>
+                    <materialDesign:PackIcon Kind="SettingsOutline" Height="22" Canvas.Top="-11" Width="22" Canvas.Left="-36" />
+                    <Label Content="Setting" Canvas.Left="-18" Canvas.Top="-14"></Label>
+                </Canvas>
+            </Button>
+            <Button x:Name="btnNewGame" Canvas.Left="37" Canvas.Top="29" Width="116" Click="BtnNewGame_Click">
+                <Canvas>
+                    <materialDesign:PackIcon Kind="Restart" Height="22" Canvas.Top="-11" Width="22" Canvas.Left="-48" />
+                    <Label Content="New Game" Canvas.Left="-30" Canvas.Top="-14"></Label>
+                </Canvas>
+            </Button>
+        </Canvas>
+        <Canvas x:Name="cvsScore" HorizontalAlignment="Left" Height="429" Margin="0,140,0,0" VerticalAlignment="Top" Width="200" Background="#FF62727B">
+            <Label x:Name="lblPlayer1" Content="Player1" Canvas.Left="30" Canvas.Top="50" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblPlayer2" Content="Player2" Canvas.Left="30" Canvas.Top="80" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblPlayer3" Content="Player3" Canvas.Left="30" Canvas.Top="110" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblPlayer4" Content="Player4" Canvas.Left="30" Canvas.Top="140" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblPlayer5" Content="Player5" Canvas.Left="30" Canvas.Top="170" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblPlayer6" Content="Player6" Canvas.Left="30" Canvas.Top="200" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblPlayer7" Content="Player7" Canvas.Left="30" Canvas.Top="230" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblPlayer8" Content="Player8" Canvas.Left="30" Canvas.Top="260" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblPlayer9" Content="Player9" Canvas.Left="30" Canvas.Top="290" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblPlayer10" Content="Player10" Canvas.Left="30" Canvas.Top="320" Width="126" BorderThickness="1"/>
+            <Label x:Name="lblScore1" Content="0" Canvas.Left="130" Canvas.Top="50"/>
+            <Label x:Name="lblScore2" Content="0" Canvas.Left="130" Canvas.Top="80"/>
+            <Label x:Name="lblScore3" Content="0" Canvas.Left="130" Canvas.Top="110"/>
+            <Label x:Name="lblScore4" Content="0" Canvas.Left="130" Canvas.Top="140"/>
+            <Label x:Name="lblScore5" Content="0" Canvas.Left="130" Canvas.Top="170"/>
+            <Label x:Name="lblScore6" Content="0" Canvas.Left="130" Canvas.Top="200"/>
+            <Label x:Name="lblScore7" Content="0" Canvas.Left="130" Canvas.Top="230"/>
+            <Label x:Name="lblScore8" Content="0" Canvas.Left="130" Canvas.Top="260"/>
+            <Label x:Name="lblScore9" Content="0" Canvas.Left="130" Canvas.Top="290"/>
+            <Label x:Name="lblScore10" Content="0" Canvas.Left="130" Canvas.Top="320"/>
+            <Label Content="Scoreboard" Canvas.Left="58" Canvas.Top="16"/>
+            <Button x:Name="btnExport" Canvas.Left="37" Canvas.Top="375" Width="116" Click="BtnExport_Click">
+                <Canvas>
+                    <materialDesign:PackIcon Kind="SettingsOutline" Height="22" Canvas.Top="-11" Width="22" Canvas.Left="-36" />
+                    <Label Content="Export" Canvas.Left="-18" Canvas.Top="-14"></Label>
+                </Canvas>
+            </Button>
+        </Canvas>
+        <Canvas x:Name="cvsDraw" HorizontalAlignment="Left" Height="569" Margin="200,0,0,0" VerticalAlignment="Top" Width="692" Background="#FF102027">
+            <Button x:Name="btnCardA" Content="A" Canvas.Left="40" Canvas.Top="60" Width="90" Height="90" Click="BtnCardA_Click" FontSize="24"/>
+            <Button x:Name="btnCardB" Content="B" Canvas.Left="170" Canvas.Top="60" Width="90" Height="90" Click="BtnCardB_Click" FontSize="24"/>
+            <Button x:Name="btnCardC" Content="C" Canvas.Left="300" Canvas.Top="60" Width="90" Height="90" Click="BtnCardC_Click" FontSize="24"/>
+            <Button x:Name="btnCardD" Content="D" Canvas.Left="430" Canvas.Top="60" Width="90" Height="90" Click="BtnCardD_Click" FontSize="24"/>
+            <Button x:Name="btnCardE" Content="E" Canvas.Left="560" Canvas.Top="60" Width="90" Height="90" Click="BtnCardE_Click" FontSize="24"/>
+            <Button x:Name="btnCardF" Content="F" Canvas.Left="40" Canvas.Top="190" Width="90" Height="90" Click="BtnCardF_Click" FontSize="24"/>
+            <Button x:Name="btnCardG" Content="G" Canvas.Left="170" Canvas.Top="190" Width="90" Height="90" Click="BtnCardG_Click" FontSize="24"/>
+            <Button x:Name="btnCardH" Content="H" Canvas.Left="300" Canvas.Top="190" Width="90" Height="90" Click="BtnCardH_Click" FontSize="24"/>
+            <Button x:Name="btnCardI" Content="I" Canvas.Left="430" Canvas.Top="190" Width="90" Height="90" Click="BtnCardI_Click" FontSize="24"/>
+            <Button x:Name="btnCardJ" Content="J" Canvas.Left="560" Canvas.Top="190" Width="90" Height="90" Click="BtnCardJ_Click" FontSize="24"/>
+            <Button x:Name="btnCardK" Content="K" Canvas.Left="40" Canvas.Top="320" Width="90" Height="90" Click="BtnCardK_Click" FontSize="24"/>
+            <Button x:Name="btnCardL" Content="L" Canvas.Left="170" Canvas.Top="320" Width="90" Height="90" Click="BtnCardL_Click" FontSize="24"/>
+            <Button x:Name="btnCardM" Content="M" Canvas.Left="300" Canvas.Top="320" Width="90" Height="90" Click="BtnCardM_Click" FontSize="24"/>
+            <Button x:Name="btnCardN" Content="N" Canvas.Left="430" Canvas.Top="320" Width="90" Height="90" Click="BtnCardN_Click" FontSize="24"/>
+            <Button x:Name="btnCardO" Content="O" Canvas.Left="560" Canvas.Top="320" Width="90" Height="90" Click="BtnCardO_Click" FontSize="24"/>
+            <Button x:Name="btnCardP" Content="P" Canvas.Left="40" Canvas.Top="450" Width="90" Height="90" Click="BtnCardP_Click" FontSize="24"/>
+            <Button x:Name="btnCardQ" Content="Q" Canvas.Left="170" Canvas.Top="450" Width="90" Height="90" Click="BtnCardQ_Click" FontSize="24"/>
+            <Button x:Name="btnCardR" Content="R" Canvas.Left="300" Canvas.Top="450" Width="90" Height="90" Click="BtnCardR_Click" FontSize="24"/>
+            <Button x:Name="btnCardS" Content="S" Canvas.Left="430" Canvas.Top="450" Width="90" Height="90" Click="BtnCardS_Click" FontSize="24"/>
+            <Button x:Name="btnCardT" Content="T" Canvas.Left="560" Canvas.Top="450" Width="90" Height="90" Click="BtnCardT_Click" FontSize="24"/>
+        </Canvas>
+    </Grid>
+</Window>
